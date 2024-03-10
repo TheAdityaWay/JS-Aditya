@@ -35,3 +35,18 @@ let index = 5;
 console.log(`An index of ${index} returns the character ${str.at(index)}`);
 index = -4;
 console.log(`An index of ${index} returns the character ${str.at(index)}`);
+
+const paragraph = "I think Ruth's dog is cuter than your dog!";
+const searchTerm = 'dog';
+const indexOfFirst = paragraph.indexOf(searchTerm);
+console.log(`The index of the first "${searchTerm}" is ${indexOfFirst}`);
+console.log(
+  `The index of the second "${searchTerm}" is ${paragraph.indexOf(
+    searchTerm,
+    indexOfFirst + 1,
+  )}`,
+);
+
+const regex = /[A-Z]/g;
+const found = paragraph.match(regex);
+console.log(found);
