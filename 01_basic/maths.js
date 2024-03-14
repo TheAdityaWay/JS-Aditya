@@ -18,3 +18,5 @@ console.log(Math.round(4.9));
 
 console.log(Math.min(4,5,6,3,2,));
 console.log(Math.max(4,5,6,3,2,));
+
+console.log(Math);
