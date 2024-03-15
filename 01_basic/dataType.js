@@ -18,10 +18,3 @@ console.log(typeof null);
 
 console.log(score);
 console.log(typeof score);
-
-//let value = 3
-//primitive 
-/*  String; Number; Boolean; Null; Undefined; Symbol; BigInt; */
-
-//Referance or Non-Primitive
-/*  Array; Objects; Functions */
