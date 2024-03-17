@@ -30,4 +30,6 @@ async function populate() {
     populateHeader(superHeroes);
     populateHeroes(superHeroes);
   }
-  
+
+console.log(typeof undefined); // undefined
+console.log(typeof null); // object
