@@ -1,6 +1,6 @@
 let score = 33
 
-console.log(3 + 3) // code readability should be high
+console.log(3 + 3)
 
 /*
 number => 2 to the power 53
