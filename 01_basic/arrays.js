@@ -59,3 +59,8 @@ console.log(allHeros);
 
 const all_new_heros = [...marvel_heros, ...dc_heros]
 console.log(all_new_heros);
+
+
+JsUser.greeting = function(){
+    console.log("Hello JS user");
+}
