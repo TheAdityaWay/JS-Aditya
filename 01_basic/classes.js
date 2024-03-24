@@ -8,11 +8,11 @@
 //    }
 //  }
 
-/*class Animal {
+class Animal {
   sleep() {
     console.log("zzzzzzz");
   }
-}*/
+}
 
 class Example {
   somePublicMethod() {
