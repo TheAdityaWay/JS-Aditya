@@ -1,5 +1,4 @@
 let score = 33
-
 console.log(3 + 3)
 
 /*
