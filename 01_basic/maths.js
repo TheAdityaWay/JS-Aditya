@@ -10,7 +10,7 @@ const otherNumber = 23.456
 console.log(otherNumber.toPrecision(3));
 */
 
-//+++++++++++++++++++Maths++++++++++++++++
+//++++++++++++++++++=Maths=+++++++++++++++++++
 
 console.log(Math);
 console.log(Math.abs(-4));
